@@ -17,3 +17,9 @@ body{background-color: #FF9A8B;
     text-transform: uppercase;
 
    }
+
+   .nav-item:hover {
+    cursor: pointer;
+    background-color: aquamarine
+    color:aquamarine
+   }
