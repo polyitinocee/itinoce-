@@ -20,6 +20,6 @@ body{background-color: #FF9A8B;
 
    .nav-item:hover {
     cursor: pointer;
-    background-color: aquamarine;
+    background-color: rgb(201, 64, 133);
     color:rgba(255, 0, 76, 0.76)
    }
