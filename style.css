@@ -1,3 +1,19 @@
 body{background-color: #FF9A8B;
     background-image: linear-gradient(90deg, #FF9A8B 0%, #FF6A88 55%, #FF99AC 100%);
-    }
+   
+
+}
+
+ header {
+    display: flex;
+    justify-content: center;
+ }
+
+   .nav-lista {
+    display: flex;
+    list-style: none;
+    font-size: 48px;
+    gap: 28px;
+    text-transform: uppercase;
+
+   }
